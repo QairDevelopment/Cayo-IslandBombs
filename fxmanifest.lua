@@ -1,7 +1,7 @@
 shared_script '@WaveShield/resource/include.lua'
 
 fx_version 'cerulean'
-game 'gta5'
+game 'gta5' 
 
 lua54 'yes'
 
